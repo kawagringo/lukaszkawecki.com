@@ -122,9 +122,8 @@
     .about-section .timeline .timeline-item-inner .btn-1 {
         width: 100%;
     }
-    .contact-section .spam-ver {
-        margin-bottom: 5px;
-        align-content: center;
+    .contact-section .submit-btn {
+        margin-top: 5px;
     }
 }
 
