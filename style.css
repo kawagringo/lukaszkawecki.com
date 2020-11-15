@@ -1642,7 +1642,7 @@ header .hamburger-btn span::after {
     resize: none;
 }
 
-.contact-section .spam-ver {
+.contact-section .spam-verification {
     flex: 0 0 100%;
     max-width: 100%;
     text-align: left;
