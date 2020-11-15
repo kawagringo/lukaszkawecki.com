@@ -25,6 +25,7 @@
     .home-section .home-text {
         order: 2;
     }
+    .contact-section .spam-ver,
     .contact-section .submit-btn,
     .home-section .home-text {
         text-align: center;

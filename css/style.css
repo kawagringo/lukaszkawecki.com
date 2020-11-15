@@ -1642,11 +1642,16 @@ header .hamburger-btn span::after {
     resize: none;
 }
 
+.contact-section .spam-ver {
+    flex: 0 0 100%;
+    max-width: 100%;
+    text-align: left;
+}
+
 .contact-section .submit-btn {
     flex: 0 0 100%;
     max-width: 100%;
     text-align: right;
-   
 }
 
 
