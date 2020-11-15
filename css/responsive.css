@@ -25,7 +25,7 @@
     .home-section .home-text {
         order: 2;
     }
-    .contact-section .spam-ver,
+    .contact-section .spam-verification,
     .contact-section .submit-btn,
     .home-section .home-text {
         text-align: center;
@@ -101,6 +101,9 @@
         left: -30px;
         right: auto;
     }
+    .contact-section .submit-btn {
+        padding-top: 5px;
+    }
 }
 
 
@@ -121,6 +124,9 @@
     }
     .about-section .timeline .timeline-item-inner .btn-1 {
         width: 100%;
+    }
+    .contact-section .spam-verification {
+        margin-bottom: 10px;
     }
 }
 

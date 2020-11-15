@@ -1,6 +1,15 @@
 /*Fonts------------------------------------------*/
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600;700&display=swap');
 
+/*ScrollBar--------------------------------------*/
+::-webkit-scrollbar {
+    width: 12px;
+}
+::-webkit-scrollbar-thumb {
+    background: linear-gradient(transparent,var(--skin-color));
+    border-radius: 6px;
+}
+
 
 
 /*Global styles----------------------------------*/
@@ -1642,7 +1651,7 @@ header .hamburger-btn span::after {
     resize: none;
 }
 
-.contact-section .spam-ver {
+.contact-section .spam-verification {
     flex: 0 0 100%;
     max-width: 100%;
     text-align: left;
