@@ -59,6 +59,16 @@
     .effect-5.bottom-5 {
         right: 2.2%;
     }
+    .effect-6 {
+        top: 91%;
+        left: 17%;
+        height: 20px;
+        width: 200px;
+    }
+    .effect-6 .effect-6-box div {
+        height: 7px;
+        width: 10px;
+    }
     .about-section .about-img {
         padding-bottom: 30px;
     }

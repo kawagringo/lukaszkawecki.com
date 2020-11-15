@@ -318,7 +318,7 @@ window.addEventListener("load", () =>{
 })
 
 
-/*-------------------------------- Cookies --------------------------------------------------------*/
+/*-------------------------------- Cookies and Google Analitics -----------------------------------*/
 
 window.addEventListener('load', function(){
     window.cookieconsent.initialise({
