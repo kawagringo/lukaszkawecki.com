@@ -1646,13 +1646,9 @@ header .hamburger-btn span::after {
     flex: 0 0 100%;
     max-width: 100%;
     text-align: right;
-    padding: 0 15px;
+   
 }
 
-.contact-section .spam-ver {
-    background-color: var(--skin-color);
-    left: 10px;
-}
 
 
 
