@@ -104,6 +104,11 @@
 
 
 @media(max-width: 574px) {
+    .header .hamburger-btn {
+        position: fixed;
+        top: 15px;
+        right: 15px;
+    }
     .home-section .home-img .img-box {
         max-width: 260px;
     }

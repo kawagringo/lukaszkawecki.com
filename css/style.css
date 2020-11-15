@@ -1649,5 +1649,10 @@ header .hamburger-btn span::after {
     padding: 0 15px;
 }
 
+.contact-section .spam-ver {
+    background-color: var(--skin-color);
+    left: 10px;
+}
+
 
 
