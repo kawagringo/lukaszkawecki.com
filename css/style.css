@@ -10,8 +10,6 @@
     border-radius: 6px;
 }
 
-
-
 /*Global styles----------------------------------*/
 /*--Custom css Variables--*/
 :root {
@@ -1489,8 +1487,8 @@ header .hamburger-btn span::after {
 .testimonial-section .testi-item i {
     position: absolute;
     font-size: 30px;
-    color: var(--text-black-600);
-    opacity: 0.1;
+    color: var(--skin-color);
+    opacity: 0.3;
 }
 
 .testimonial-section .testi-item i.left {

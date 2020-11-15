@@ -52,6 +52,10 @@
     text-transform: capitalize;
 }
 
+.style-switcher h4.sm {
+    padding-top: 5px;
+}
+
 .style-switcher .colors {
     display: flex;
     flex-wrap: wrap;
@@ -100,4 +104,30 @@
 }
 .style-switcher .color-10 {
     background-color: #ff7855;
+}
+
+.style-switcher .social-links-sw {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.style-switcher .social-links-sw a {
+    display: inline-block;
+    height: 35px;
+    width: 35px;
+    font-size: 15px;
+    text-align: center;
+    line-height: 35px;
+    color: var(--text-black-600);
+    margin: 0 2px;
+    border-radius: 50%;
+    transition: all 0.3s ease;
+}
+
+.style-switcher .social-links-sw a::after {
+    border-radius: 50%;
+}
+
+.style-switcher .social-links-sw a:hover {
+    color: var(--skin-color);
 }
