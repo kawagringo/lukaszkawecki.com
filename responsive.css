@@ -101,6 +101,12 @@
         left: -30px;
         right: auto;
     }
+    .contact-section .submit-btn {
+        padding-top: 10px;
+    }
+    .contact-section .spam-verification {
+        align-items: center;
+    }
 }
 
 
