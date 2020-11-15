@@ -101,8 +101,8 @@
         left: -30px;
         right: auto;
     }
-    .contact-section .w-50.spam {
-        padding-bottom: 5px;
+    .contact-section .submit-btn {
+        padding-top: 5px;
     }
 }
 
