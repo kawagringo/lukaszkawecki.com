@@ -1051,6 +1051,10 @@ header .hamburger-btn span::after {
     transition: all 0.3s ease;
 }
 
+.service-section .service-item:hover {
+    box-shadow: var(--inner-shadow);
+}
+
 .service-section .service-item-inner:hover .icon {
     box-shadow: var(--inner-shadow-0);
 }
